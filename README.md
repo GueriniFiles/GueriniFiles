@@ -23,7 +23,7 @@
 <br/>
 
 <a href="https://github.com/GueriniFiles" title="Perfil do Diego">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=guerinifiles&theme=dracula&show_icons=true&hide_border=true&count_private=true)" />
 </a>
 
 ## Onde me encontrar
