@@ -23,10 +23,10 @@
 <br/>
 
 <a href="https://github.com/GueriniFiles" title="Perfil do Diego">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true](https://github-readme-stats.vercel.app/api?username=guerinifiles&theme=dracula&show_icons=true&hide_border=true&count_private=true)" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guerinifiles&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
 </a>
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:diegoangeliguerini@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoangeliguerini@gmail.com)](mailto:diegoangeliguerini@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GueriniFiles)
