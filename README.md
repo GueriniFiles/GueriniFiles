@@ -28,5 +28,5 @@
 
 ## Onde me encontrar
 
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoangeliguerini@gmail.com)](mailto:diegoangeliguerini@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-diegoangeliguerini@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:diegoangeliguerini@gmail.com)](mailto:diegoangeliguerini@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/GueriniFiles)
